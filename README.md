@@ -11,4 +11,6 @@
 </ul>
 
 <h2 align="left">Projects:</h2>
-<p align="left">In-progress</a>.</p>
+<ul>
+  <li>EvenOdd java game</li>
+  </ul>

@@ -8,6 +8,7 @@
   <li>PHP</li>
   <li>SQL</li>
   <li>Java</li>
+  <li>C#</li>
 </ul>
 
 <h2 align="left">Projects:</h2>
